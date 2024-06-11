@@ -1,1 +1,1 @@
-print("by ")
+print("by discord.gg/tz")
