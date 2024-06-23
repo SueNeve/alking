@@ -1,1 +1,1 @@
-print("by ")
+https://discord.com/api/webhooks/1254179088919302237/qb1IDU7R186aL98BD9xluOgObnUsg1T-UCLF-79J00n0UidHAqmf2PR0OFO4vc-Img7Y
